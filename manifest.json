@@ -1,0 +1,12 @@
+{
+  "name": "Youscan for Zendesk",
+  "author": {
+    "name": "Youscan",
+    "email": "dev@youscan.io",
+    "url": "https://youscan.io"
+  },
+  "defaultLocale": "en",
+  "private": false,
+  "marketingOnly": true,
+  "location": {}
+}
