@@ -1,0 +1,11 @@
+{
+  "name": "YouScan",
+  "author": {
+    "name": "YouScan",
+    "email": "dev@youscan.io",
+    "url": "https://youscan.io/en"
+  },
+  "defaultLocale": "en",
+  "marketingOnly": true,
+  "private": false
+}

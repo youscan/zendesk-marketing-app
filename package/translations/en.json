@@ -1,0 +1,8 @@
+{
+    "app": {
+	"name": "YouScan",
+	"short_description": "YouScan app for Zendesk will give you access to online mentions about your brand or product right from Zendesk to provide exceptional customer support. Make managing your mentions a part of your core support workflow",
+	"long_description": "YouScan monitors all major social networks, as well as blogs, forums, and online news, automatically collecting and analyzing over 100+ millions of posts daily. This integration allows you to stay updated on all the latest trending posts related to your brand.\n\nConnecting YouScan to Zendesk allows you to instantly receive new mentions about your brand as tickets in Zendesk.\n\nNote: This integration requires YouScan paid or trial account.",
+	"installation_instructions": "If you are not already a YouScan customer you’ll need to sign up at [https://youscan.io/en/](https://youscan.io/en)\n\nThen follow these easy steps:\n1. Once you have signed up and configured a monitoring topic, open Integrations section in a topic settings menu\n2. Click the Add button under the Zendesk integration\n3. Enter your Zendesk subdomain name\n 4. Click Authorize Zendesk button. You will be redirected to your Zendesk account\n5. Log in to your Zendesk account and click Allow\n6. Inegration is ready.\n\nJust set up rules to send mentions to Zendesk automatically or send specific mentions manually.\n\nYou can also read the complete installation guide at http://help.youscan.io/knowledge-base/integration/how-to-configure-zendesk-integration" 
+    }
+}
